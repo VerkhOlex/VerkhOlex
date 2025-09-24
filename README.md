@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**VerkhOlex/VerkhOlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+██╗   ██╗███████╗██████╗ ██╗  ██╗██╗  ██╗ ██████╗ ██╗     ███████╗██╗  ██╗
+██║   ██║██╔════╝██╔══██╗██║ ██╔╝██║  ██║██╔═══██╗██║     ██╔════╝╚██╗██╔╝
+██║   ██║█████╗  ██████╔╝█████╔╝ ███████║██║   ██║██║     █████╗   ╚███╔╝ 
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██╔═██╗ ██╔══██║██║   ██║██║     ██╔══╝   ██╔██╗ 
+ ╚████╔╝ ███████╗██║  ██║██║  ██╗██║  ██║╚██████╔╝███████╗███████╗██╔╝ ██╗
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🎯 SPECIALIZATION
+
+**🧱 3D MODELING**
+- Custom Minecraft models & creatures
+- Blockbench expertise for game assets
+- Low-poly 3D design for indie games
+
+**🎨 PIXEL ART**
+- Character sprites & animations
+- UI elements & game textures
+- Retro-style digital artwork
+
+**🎮 GAME DEVELOPMENT**
+- Ready-to-use asset creation
+- Texture mapping & optimization
+
+
+---
+
+## 🛠️ TOOLS & TECHNOLOGIES
+
+```
+MODELING        DESIGN          PLATFORMS
+────────        ──────          ─────────
+🧊 Blockbench   🎨 Pixel Art     💻 Windows
+🎯 Asset Forge  🖼️ Photoshop     🐧 Linux
+📐 Voxel Edit   ✏️ Aseprite      🌐 Web
+```
